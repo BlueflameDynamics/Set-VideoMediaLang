@@ -19,7 +19,7 @@ Many times a video file like mp4, m4v, or mkv fails to identify the audio track 
 Setup
 -----
 
-\* install \`ffmpeg\` and add it to your PATH (e.g. use winget like: [https://winstall.app/apps/Gyan.FFmpeg](https://winstall.app/apps/Gyan.FFmpeg) , it'll automatically add the executable to PATH) or  
-  directly from ffmpeg.org at: [https://ffmpeg.org/download.html#build-windows](https://ffmpeg.org/download.html#build-windows)
+\* install \`ffmpeg\` and add it to your PATH (e.g. use winget like: [https://winstall.app/apps/Gyan.FFmpeg](https://winstall.app/apps/Gyan.FFmpeg) , it'll automatically add the executable to PATH) 
+or directly from ffmpeg.org at: [https://ffmpeg.org/download.html#build-windows](https://ffmpeg.org/download.html#build-windows)
 
 \* Copy both ISO639-2\\\_Video\\\_Language\\\_Codes.json and Set-VideoMediaLang.ps1 to the Powershell scripts folder for your version of Powershell.
