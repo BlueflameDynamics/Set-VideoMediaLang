@@ -1,7 +1,7 @@
 Set-VideoMediaLang
 ==================
 
-Powershell Cmdlet and related files for setting a video file's  first audio track language
+Powershell Cmdlet and related files for setting a video file's audio track language
 
 What does it do?
 ----------------
