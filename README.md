@@ -7,14 +7,14 @@ What does it do?
 ----------------
 
 This Powershell script may be used to run Ffmpeg on one or more video files greatly simplifying the process.  
-  You may use the power of the pipeline to set all the video files in a directory to the same language. The process preserves  
-  the original files by outputting updated files to another location.
+You may use the power of the pipeline to set all the video files in a directory to the same language.
+The process preserves the original files by outputting updated files to another location.
 
 What problem does this solve?
 -----------------------------
 
 Many times a video file like mp4, m4v, or mkv fails to identify the audio track language within the metadata Ffmpeg can be used to correct this,  
-  However the command syntax is difficult. This Powershell script simplifies the process.
+However the command syntax is difficult. This Powershell script simplifies the process.
 
 Setup
 -----
