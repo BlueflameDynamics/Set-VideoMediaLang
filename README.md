@@ -11,9 +11,7 @@ The process preserves the original files by outputting updated files to another 
 ## What problem does this solve?
 
 Many times a video file like mp4, m4v, or mkv fails to identify the audio track language within the metadata, 
-
 Ffmpeg can be used to correct this. However the command syntax is difficult. 
-
 This Powershell script simplifies the process.
 
 ## Setup
